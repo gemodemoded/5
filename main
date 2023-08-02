@@ -1,0 +1,4 @@
+words = ["banana", "apple", "orange", "grape", "kiwi"]
+
+# Сортировка в алфавитном порядке
+sorted_words = words.sort
